@@ -2,7 +2,7 @@ DROP DATABASE IF EXISTS employeesDB;
 CREATE DATABASE employeesDB;
 USE employeesDB;
 
-CREATE TABLE employee
+CREATE TABLE employees
 (
 id INT
             AUTO_INCREMENT NOT NULL,
